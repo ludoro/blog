@@ -6,7 +6,7 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: My blog
+title: Ludovico's blog
 description: Blog about Applied ML in industry.
 github_username: ludoro
 # you can comment the below line out if your repo name is not different than your baseurl
@@ -39,8 +39,8 @@ baseurl: "/blog" # the subpath of your site, e.g. "/blog".
 # Github and twitter are optional:
 minima:
   social_links:
-    twitter: https://twitter.com/bessi_ludovico
-    github: https://github.com/ludoro
+    twitter: bessi_ludovico
+    github: ludoro
 
 # Set this to true to get LaTeX math equation support
 use_math: 
