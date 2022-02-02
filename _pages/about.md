@@ -16,3 +16,6 @@ In the past, I have:
 
 - developed the open source library "Surrogates.jl" under the "Google summer of code framework"
 
+I am also available for mentoring. Click here and get in touch :)
+
+<a href="https://mentorcruise.com/mentor/LudovicoBessi2/"> <img src="https://cdn.mentorcruise.com/img/banner/fire-sm.svg" width="240" alt="MentorCruise"> </a>
