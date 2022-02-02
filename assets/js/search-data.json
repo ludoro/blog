@@ -7,7 +7,7 @@
   
       "page1": {
           "title": "About Me",
-          "content": "I am currently a Software engineer at Google. I am working on defending gmail users using machine learning. It is pretty cool! . In the past, I have: . interned at CERN studying longitudinal beam dynamics . | carried out my master degree thesis at Volvo cars, working on novel object detection architectures . | collaborated with the Alan turing institute on a wide range of ML topics . | developed the open source library “Surrogates.jl” under the “Google summer of code framework” . | . I am also available for mentoring. Click here and get in touch :) . .",
+          "content": "I am currently a Software engineer at Google. I am working on defending gmail users using machine learning. It is pretty cool! . In the past, I have: . interned at CERN studying longitudinal beam dynamics . | carried out my master degree thesis at Volvo cars, working on novel object detection architectures . | collaborated with the Alan turing institute on a wide range of ML topics . | developed the open source library “Surrogates.jl” under the “Google summer of code framework” . | . Feel free to check out my personal website as well! :) . I am also available for mentoring. Click here and get in touch :) . .",
           "url": "https://ludoro.github.io/blog/about/",
           "relUrl": "/about/",
           "date": ""
