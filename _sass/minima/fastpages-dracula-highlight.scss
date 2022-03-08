@@ -16,7 +16,7 @@ $dt-yellow: #f1fa8c;
 $dt-green-light: rgb(172, 229, 145);
 
 .language-python + .language-plaintext {
-    border-left: 1px solid grey;
+    border-left: 1px #000000;
     margin-left: 1rem !important;
 }
 
@@ -73,7 +73,7 @@ $dt-green-light: rgb(172, 229, 145);
 
 .highlight {
     background: $dt-code-cell-background !important;
-    color: $dt-gray-light !important;
+    color: #000000 !important;
     pre, code {
      background: $dt-code-cell-background;
      color: $dt-gray-light;
@@ -99,7 +99,7 @@ $dt-green-light: rgb(172, 229, 145);
     }
   
     .go {
-      color: $dt-gray;
+      color: #000000;
     }
   
     .err,
@@ -126,7 +126,7 @@ $dt-green-light: rgb(172, 229, 145);
     .py,
     .w,
     .bp {
-      color: $dt-gray-light;
+      color: #000000;
       background-color: $dt-code-cell-background !important;
     }
  
@@ -152,7 +152,7 @@ $dt-green-light: rgb(172, 229, 145);
     }
 
     .c1 {
-      color: gray;
+      color: #000000;
     }
   
     .kd,

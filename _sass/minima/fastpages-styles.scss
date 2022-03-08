@@ -18,7 +18,7 @@ img.emoji{
   text-align: center;
   font-size: .8rem;
   font-style: italic;
-  color: light-grey;
+  color: black;
 }
 
 .page-content {
@@ -30,7 +30,7 @@ img.emoji{
 // make non-headings slightly lighter
 .post-content p, .post-content li {
    font-size: 20px;
-   color: #515151;
+   color: #000000;
 }
 
 .post-link{
@@ -76,7 +76,7 @@ li {
   margin-bottom:.05rem !important;
   }
   .post-meta-description {
-    color: rgb(88, 88, 88);
+    color: #000000;// rgb(88, 88, 88);
     font-size: 15px;
     margin-top:.05rem !important;
     margin-bottom:.05rem !important;
@@ -186,13 +186,13 @@ h6:hover .anchor-link {
 }
 
 .search-result-preview {
-  color: #777;
+  color: #000000;//#777;
   font-size: 16px;
   margin-top:.02rem !important;
   margin-bottom:.02rem !important;
 }
 .search-result-highlight {
-  color: #2e0137;
+  color: #000000;//#2e0137;
   font-weight:bold;
 }
 
