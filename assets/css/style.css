@@ -327,11 +327,11 @@ table td { border: 1px solid #e8e8e8; }
 
 img.emoji { display: inline !important; vertical-align: baseline !important; }
 
-.post figcaption { text-align: center; font-size: .8rem; font-style: italic; color: light-grey; }
+.post figcaption { text-align: center; font-size: .8rem; font-style: italic; color: black; }
 
 .page-content { -webkit-font-smoothing: antialiased !important; text-rendering: optimizeLegibility !important; font-family: "Segoe UI", SegoeUI, Roboto, "Segoe WP", "Helvetica Neue", "Helvetica", "Tahoma", "Arial", sans-serif !important; }
 
-.post-content p, .post-content li { font-size: 20px; color: #515151; }
+.post-content p, .post-content li { font-size: 20px; color: #000000; }
 
 .post-link { font-weight: normal; }
 
@@ -353,7 +353,7 @@ pre { margin-bottom: 1.5rem !important; }
 
 li h3, li h4 { margin-top: .05rem !important; margin-bottom: .05rem !important; }
 
-li .post-meta-description { color: #585858; font-size: 15px; margin-top: .05rem !important; margin-bottom: .05rem !important; }
+li .post-meta-description { color: #000000; font-size: 15px; margin-top: .05rem !important; margin-bottom: .05rem !important; }
 
 details.description[open] summary::after { content: attr(data-open); }
 
@@ -397,9 +397,9 @@ h1:hover .anchor-link, h2:hover .anchor-link, h3:hover .anchor-link, h4:hover .a
 
 .search-result-rel-date { color: #6d788a; font-size: 14px; }
 
-.search-result-preview { color: #777; font-size: 16px; margin-top: .02rem !important; margin-bottom: .02rem !important; }
+.search-result-preview { color: #000000; font-size: 16px; margin-top: .02rem !important; margin-bottom: .02rem !important; }
 
-.search-result-highlight { color: #2e0137; font-weight: bold; }
+.search-result-highlight { color: #000000; font-weight: bold; }
 
 table { white-space: normal; max-width: 100%; font-size: 100%; border: none; }
 
@@ -429,7 +429,7 @@ pre code { font-size: 15px !important; }
 
 /*-----------------------------------*/
 /*----- ADD YOUR STYLES BELOW -------*/
-.language-python + .language-plaintext { border-left: 1px solid grey; margin-left: 1rem !important; }
+.language-python + .language-plaintext { border-left: 1px #000000; margin-left: 1rem !important; }
 
 [class^="language-"]:not(.language-plaintext) pre, [class^="language-"]:not(.language-plaintext) code { background-color: #323443 !important; color: #f8f8f2; }
 
@@ -448,15 +448,15 @@ pre code { font-size: 15px !important; }
 .code_cell table { width: auto; }
 
 /* Dracula Theme v1.2.5 https://github.com/zenorocha/dracula-theme Copyright 2016, All rights reserved Code licensed under the MIT license */
-.highlight { background: #323443 !important; color: #f8f8f2 !important; }
+.highlight { background: #323443 !important; color: #000000 !important; }
 
 .highlight pre, .highlight code { background: #323443; color: #f8f8f2; font-size: 110%; }
 
 .highlight .hll, .highlight .s, .highlight .sa, .highlight .sb, .highlight .sc, .highlight .dl, .highlight .sd, .highlight .s2, .highlight .se, .highlight .sh, .highlight .si, .highlight .sx, .highlight .sr, .highlight .s1, .highlight .ss { color: #e7997a; }
 
-.highlight .go { color: #44475a; }
+.highlight .go { color: #000000; }
 
-.highlight .err, .highlight .g, .highlight .l, .highlight .n, .highlight .x, .highlight .ge, .highlight .gr, .highlight .gh, .highlight .gi, .highlight .gp, .highlight .gs, .highlight .gu, .highlight .gt, .highlight .ld, .highlight .no, .highlight .nd, .highlight .pi, .highlight .ni, .highlight .ne, .highlight .nn, .highlight .nx, .highlight .py, .highlight .w, .highlight .bp { color: #f8f8f2; background-color: #323443 !important; }
+.highlight .err, .highlight .g, .highlight .l, .highlight .n, .highlight .x, .highlight .ge, .highlight .gr, .highlight .gh, .highlight .gi, .highlight .gp, .highlight .gs, .highlight .gu, .highlight .gt, .highlight .ld, .highlight .no, .highlight .nd, .highlight .pi, .highlight .ni, .highlight .ne, .highlight .nn, .highlight .nx, .highlight .py, .highlight .w, .highlight .bp { color: #000000; background-color: #323443 !important; }
 
 .highlight .p { font-weight: bold; color: #66d9ef; }
 
@@ -466,7 +466,7 @@ pre code { font-size: 15px !important; }
 
 .highlight .c, .highlight .ch, .highlight .cm, .highlight .cpf, .highlight .cs { color: #6272a4; }
 
-.highlight .c1 { color: gray; }
+.highlight .c1 { color: #000000; }
 
 .highlight .kd, .highlight .kt, .highlight .nb, .highlight .nl, .highlight .nv, .highlight .vc, .highlight .vg, .highlight .vi, .highlight .vm { color: #8be9fd; }
 
