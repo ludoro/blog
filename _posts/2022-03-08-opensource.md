@@ -7,7 +7,7 @@ show_tags: true
 comments: true
 image: images/GSOC.png
 show_image: true
-title: How open source involvment as a student can jumpstart your career
+title: How open source involvement as a student can jumpstart your career
 ---
 
 # Introduction - my open source path <a id="intro"></a>
